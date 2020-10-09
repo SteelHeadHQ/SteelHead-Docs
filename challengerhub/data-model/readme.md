@@ -1,4 +1,4 @@
-# AccountingHub Data Model
+# GrowthHub Data Model
 
 
 ## Overview
